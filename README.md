@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Gustavo González
 
 - 🔭 I’m currently working on backend and Frontend
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Flutter
 
 <div>
     <a href="https://github.com/gustavogonzalezdev">
