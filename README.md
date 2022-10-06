@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gustavo González
 
-- 🔭 I’m currently working on backend and Frontend
+- 🔭 Currently I work as a frontend, in some projects I've worked on the backend as well
 - 🌱 I’m currently learning TypeScript and Flutter
 
 <div>
